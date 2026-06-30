@@ -1,0 +1,43 @@
+{
+  "document_type": "general",
+  "section_order": [
+    "order",
+    "general"
+  ],
+  "numbering_convention": "",
+  "total_examples": 2,
+  "section_templates": {
+    "order": {
+      "section_type": "order",
+      "typical_titles": [
+        "-: હુકમ :-"
+      ],
+      "avg_length": 307.0,
+      "typical_position": 0.0,
+      "numbering_style": "",
+      "typical_subsection_count": 0.0,
+      "example_openings": [
+        "-: હુકમ :-\nઅરજદારશ્રીની રિવિઝન અરજી નં.મવવિ/ઇસયુ/બનસ/૪૩/૨૦૨૨ના કામે રજુ કરેલ કેસ વિવરણો\nપુરશીશ ગ્રાહ"
+      ],
+      "example_closings": [
+        "ારી સહી તથા કોર્ટનો સિક્કો કર્યો.\n(એલ.પી.પાડલીયા)\nગુજરાતના રાજયપાલશ્રીના હુકમથી અને તેમના નામે.\nસચિવ"
+      ]
+    },
+    "general": {
+      "section_type": "general",
+      "typical_titles": [
+        "પ્રતિ,"
+      ],
+      "avg_length": 59.0,
+      "typical_position": 0.5,
+      "numbering_style": "",
+      "typical_subsection_count": 2.0,
+      "example_openings": [
+        "પ્રતિ,\n૨/-જાણ તથા હુકમ મુજબ જરૂરી અમલવારી સારૂ.\nPage 4 of 4"
+      ],
+      "example_closings": [
+        "પ્રતિ,\n૨/-જાણ તથા હુકમ મુજબ જરૂરી અમલવારી સારૂ.\nPage 4 of 4"
+      ]
+    }
+  }
+}

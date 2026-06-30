@@ -1,0 +1,33 @@
+{
+  "order": [
+    {
+      "source_file": "d:\\Resolute AI\\GJ.v.2\\data\\parsed\\judgement_1_parsed.json",
+      "section_type": "order",
+      "section_id": "1",
+      "section_title": "-: હુકમ :-",
+      "section_content": "-: હુકમ :-\nઅરજદારશ્રીની રિવિઝન અરજી નં.મવવિ/ઇસયુ/બનસ/૪૩/૨૦૨૨ના કામે રજુ કરેલ કેસ વિવરણો\nપુરશીશ ગ્રાહ્ય રાખવામાં આવે છે અને કેસ રજીસ્ટરથી કમી કરવા હુકમ કરવામાં આવે છે.\nSuseel\nઆજ રોજ તા. ૦૨ / ૦૫ /૨૦૨૪ ના રોજ મારી સહી તથા કોર્ટનો સિક્કો કર્યો.\n(એલ.પી.પાડલીયા)\nગુજરાતના રાજયપાલશ્રીના હુકમથી અને તેમના નામે.\nસચિવ",
+      "subsections": []
+    }
+  ],
+  "general": [
+    {
+      "source_file": "d:\\Resolute AI\\GJ.v.2\\data\\parsed\\judgement_1_parsed.json",
+      "section_type": "general",
+      "section_id": "2",
+      "section_title": "પ્રતિ,",
+      "section_content": "પ્રતિ,\n૨/-જાણ તથા હુકમ મુજબ જરૂરી અમલવારી સારૂ.\nPage 4 of 4",
+      "subsections": [
+        {
+          "id": "2.1",
+          "numbering": "(૧)",
+          "content": "(૧) સંબંધિત પક્ષકારો તરફ..."
+        },
+        {
+          "id": "2.2",
+          "numbering": "(૨)",
+          "content": "(૨) સીલેકટ ફાઈલ..."
+        }
+      ]
+    }
+  ]
+}

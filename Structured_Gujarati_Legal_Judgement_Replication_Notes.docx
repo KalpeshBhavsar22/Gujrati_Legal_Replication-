@@ -1,0 +1,316 @@
+
+# Structured Gujarati Legal Judgement Replication System
+
+## Project Goal
+- Build a Structured Gujarati Legal Judgement Replication System
+- Replicate:
+  - exact format
+  - structure
+  - section order
+  - legal drafting style
+  - court layout
+- Goal is NOT:
+  - chatbot
+  - QA system
+  - normal RAG summarization
+- Goal IS:
+  - production-oriented legal document replication pipeline
+
+---
+
+# Current Problem
+
+## Existing Workflow
+OCR → Chunking → Embedding → RAG → LLM Generation
+
+## Problems with Current Approach
+- Generates summary-style outputs
+- Loses legal formatting
+- Breaks numbering hierarchy
+- Structure becomes inconsistent
+- Hallucinates legal flow
+- Does not preserve court document style
+
+---
+
+# Correct System Architecture
+
+## Target Workflow
+
+Judgement PDF
+↓
+GLM-OCR Extraction
+↓
+Layout + Section Parsing
+↓
+Structured JSON Template
+↓
+Section-wise Retrieval
+↓
+Structure-Constrained Generation
+↓
+Final Gujarati Legal Judgement Replication
+
+---
+
+# Core Architectural Shift
+
+## Wrong Approach
+- Generic OCR extraction
+- Random chunking
+- Semantic-only retrieval
+- Free-form generation
+
+## Correct Approach
+- Layout-aware OCR
+- Section parsing
+- Structured extraction
+- Template schema generation
+- Section-wise retrieval
+- Template-constrained generation
+- Final layout reconstruction
+
+---
+
+# What Must Be Preserved
+
+## Court Formatting
+- Official court layout
+- Header structure
+- Legal formatting
+- Alignment
+- Spacing
+- Page structure
+
+## Legal Tone
+- Gujarati legal terminology
+- Court drafting style
+- Official legal language
+
+## Numbering Hierarchy
+Examples:
+- (1)
+- (1.1)
+- (1.2)
+- (2)
+- (2.1)
+
+Must preserve:
+- hierarchy
+- order
+- indentation
+- subsection relationships
+
+## Party Structure
+- Applicant formatting
+- Respondent formatting
+- Advocate details
+- Address blocks
+
+## Judgement Structure
+- Facts
+- Arguments
+- Observations
+- Findings
+- Orders
+- References
+
+---
+
+# Required System Components
+
+## 1. OCR Layer
+
+### Recommended Tools
+- GLM-OCR
+- PaddleOCR (fallback)
+
+### OCR Goals
+- Accurate Gujarati extraction
+- Preserve line order
+- Preserve coordinates
+- Preserve layout information
+
+---
+
+## 2. Layout Understanding Layer
+
+### Required Features
+- Header detection
+- Section boundary detection
+- Paragraph grouping
+- Numbering extraction
+- Layout segmentation
+- Table/block identification
+
+### Recommended Tools
+- LayoutParser
+- Docling
+- pdfplumber
+- pymupdf
+- Detectron2 layout models
+
+---
+
+## 3. Structured Parser
+
+### Purpose
+Convert OCR text into structured legal schema.
+
+### Example JSON Structure
+
+{
+  "header": {},
+  "case_info": {},
+  "parties": {},
+  "sections": [
+    {
+      "id": "1",
+      "title": "",
+      "content": "",
+      "subsections": []
+    }
+  ],
+  "order": {}
+}
+
+---
+
+# Retrieval System
+
+## Important Rule
+Do NOT use:
+- random chunk retrieval
+- semantic-only retrieval
+
+## Correct Retrieval
+Retrieve by:
+- section type
+- legal role
+- numbering structure
+- template similarity
+
+### Example
+Retrieve:
+- “ORDER section examples”
+Instead of:
+- “nearest semantic chunks”
+
+---
+
+# Generation System
+
+## Wrong Generation
+Generate entire judgement freely.
+
+## Correct Generation
+Generate:
+- section-by-section
+- structure-constrained
+- template-guided
+- formatting-aware
+
+### Example
+Generate subsection 2.3 using:
+- matching legal template
+- numbering structure
+- section schema
+
+---
+
+# Recommended Pipeline
+
+## Phase 1 — OCR
+PDF → OCR text + coordinates
+
+## Phase 2 — Layout Understanding
+Detect:
+- headers
+- sections
+- numbering
+- blocks
+- paragraphs
+
+## Phase 3 — Structured JSON
+Convert judgement into structured schema.
+
+## Phase 4 — Template Learning
+Learn:
+- section order
+- formatting patterns
+- drafting style
+- numbering structure
+
+## Phase 5 — Section-wise Retrieval
+Retrieve:
+- similar section templates
+- similar legal structures
+
+## Phase 6 — Controlled Generation
+Generate:
+- section-by-section
+- under strict structure constraints
+
+## Phase 7 — Final Reconstruction
+Rebuild:
+- final court-style judgement document
+
+---
+
+# Recommended Technologies
+
+## OCR
+- GLM-OCR
+- PaddleOCR
+
+## Layout Understanding
+- LayoutParser
+- Docling
+- pdfplumber
+- pymupdf
+
+## Vector Database
+- FAISS
+- ChromaDB
+
+## Embeddings
+- multilingual-e5
+- bge-m3
+
+## Generation Models
+- Qwen
+- Llama
+- Mistral
+- DeepSeek
+
+---
+
+# Most Important Insight
+
+This project is closer to:
+
+## Document Structure Replication
+
+NOT:
+
+## Chatbot / QA / Traditional RAG
+
+The entire system must focus on:
+- structure preservation
+- legal formatting preservation
+- constrained generation
+- court-style reconstruction
+
+---
+
+# Final Key Rule
+
+Do NOT:
+- chunk randomly
+- retrieve semantically only
+- generate full document in one prompt
+
+Instead:
+- parse structurally
+- retrieve structurally
+- generate structurally

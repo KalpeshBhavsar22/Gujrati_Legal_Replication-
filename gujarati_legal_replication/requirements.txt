@@ -1,0 +1,27 @@
+# Structured Gujarati Legal Judgement Replication System
+# Dependencies
+
+# Core
+PyMuPDF>=1.23.0
+numpy>=1.24.0
+Pillow>=10.0.0
+
+# OCR - GLM-4.6V-Flash-9B via local Ollama (community model by haervwe)
+# Setup: Install Ollama (https://ollama.com/download)
+# Then: ollama pull haervwe/GLM-4.6V-Flash-9B
+openai>=1.0.0  # OpenAI-compatible client for local Ollama endpoint
+
+# Layout & Document Processing
+pdfplumber>=0.10.0
+python-docx>=1.0.0
+
+# Embeddings & Vector DB
+sentence-transformers>=2.2.0
+faiss-cpu>=1.7.4  # Use faiss-gpu for GPU support
+# chromadb>=0.4.0  # Alternative to FAISS
+
+# LLM Client
+openai>=1.0.0
+
+# Utilities
+tqdm>=4.65.0

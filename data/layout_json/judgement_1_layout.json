@@ -1,0 +1,1321 @@
+{
+  "source_pdf": "D:\\Resolute AI\\GJ.v.2\\data\\input_pdfs\\judgement_1.pdf",
+  "total_blocks": 47,
+  "total_sections": 4,
+  "block_type_counts": {
+    "header": 2,
+    "paragraph": 37,
+    "numbered_item": 5,
+    "subheader": 2,
+    "signature": 1
+  },
+  "blocks": [
+    {
+      "block_type": "header",
+      "page": 1,
+      "bbox": {
+        "x0": 50.0,
+        "y0": 0.0,
+        "x1": 316.0,
+        "y1": 837.51
+      },
+      "indent_level": 0,
+      "numbering": null,
+      "font_size_estimate": 14.0,
+      "text": "[ { \"text\": \"585\", \"y_position\": 0.023, \"x_position\": 0.887, \"indent_level\": 0 }, { \"text\": \"નં.મવવિ/હકપ/બનસ/૪૩/૨૦૨૨\", \"y_position\": 0.057, \"x_position\": 0.467, \"indent_level\": 0 }, { \"text\": \"ગુજરાત સરકાર\", \"y_position\": 0.083, \"x_position\": 0.467, \"indent_level\": 0 }, { \"text\": \"નં.મવવિ/હકપ/બનસ/૪૩/૨૦૨૨\", \"y_position\": 0.111, \"x_position\": 0.467, \"indent_level\": 0 }, { \"text\": \"સરદાર વલ્લભભાઈ પટેલ મહેસૂલી\", \"y_position\": 0.128, \"x_position\": 0.467, \"indent_level\": 0 }, { \"text\": \"અ"
+    },
+    {
+      "block_type": "paragraph",
+      "page": 2,
+      "bbox": {
+        "x0": 50.0,
+        "y0": 0.0,
+        "x1": 57.0,
+        "y1": 14.0
+      },
+      "indent_level": 0,
+      "numbering": null,
+      "font_size_estimate": 14.0,
+      "text": "["
+    },
+    {
+      "block_type": "paragraph",
+      "page": 2,
+      "bbox": {
+        "x0": 50.0,
+        "y0": 29.28,
+        "x1": 57.0,
+        "y1": 43.28
+      },
+      "indent_level": 0,
+      "numbering": null,
+      "font_size_estimate": 14.0,
+      "text": "{"
+    },
+    {
+      "block_type": "paragraph",
+      "page": 2,
+      "bbox": {
+        "x0": 50.0,
+        "y0": 58.57,
+        "x1": 281.0,
+        "y1": 72.57
+      },
+      "indent_level": 0,
+      "numbering": null,
+      "font_size_estimate": 14.0,
+      "text": "\"text\": \"નં.મવિ/હકપ/બનસ/૪૩/૨૦૨૨\","
+    },
+    {
+      "block_type": "paragraph",
+      "page": 2,
+      "bbox": {
+        "x0": 50.0,
+        "y0": 87.85,
+        "x1": 197.0,
+        "y1": 101.85
+      },
+      "indent_level": 0,
+      "numbering": null,
+      "font_size_estimate": 14.0,
+      "text": "\"y_position\": 0.0598,"
+    },
+    {
+      "block_type": "paragraph",
+      "page": 2,
+      "bbox": {
+        "x0": 50.0,
+        "y0": 117.14,
+        "x1": 190.0,
+        "y1": 131.14
+      },
+      "indent_level": 0,
+      "numbering": null,
+      "font_size_estimate": 14.0,
+      "text": "\"x_position\": 0.548,"
+    },
+    {
+      "block_type": "paragraph",
+      "page": 2,
+      "bbox": {
+        "x0": 50.0,
+        "y0": 146.42,
+        "x1": 169.0,
+        "y1": 160.42
+      },
+      "indent_level": 0,
+      "numbering": null,
+      "font_size_estimate": 14.0,
+      "text": "\"indent_level\": 0"
+    },
+    {
+      "block_type": "paragraph",
+      "page": 2,
+      "bbox": {
+        "x0": 50.0,
+        "y0": 175.7,
+        "x1": 64.0,
+        "y1": 189.7
+      },
+      "indent_level": 0,
+      "numbering": null,
+      "font_size_estimate": 14.0,
+      "text": "},"
+    },
+    {
+      "block_type": "paragraph",
+      "page": 2,
+      "bbox": {
+        "x0": 50.0,
+        "y0": 204.99,
+        "x1": 57.0,
+        "y1": 218.99
+      },
+      "indent_level": 0,
+      "numbering": null,
+      "font_size_estimate": 14.0,
+      "text": "{"
+    },
+    {
+      "block_type": "paragraph",
+      "page": 2,
+      "bbox": {
+        "x0": 50.0,
+        "y0": 234.27,
+        "x1": 225.0,
+        "y1": 248.27
+      },
+      "indent_level": 0,
+      "numbering": null,
+      "font_size_estimate": 14.0,
+      "text": "\"text\": \"સામાવાળાશ્રી:-\","
+    },
+    {
+      "block_type": "paragraph",
+      "page": 2,
+      "bbox": {
+        "x0": 50.0,
+        "y0": 263.56,
+        "x1": 197.0,
+        "y1": 277.56
+      },
+      "indent_level": 0,
+      "numbering": null,
+      "font_size_estimate": 14.0,
+      "text": "\"y_position\": 0.2366,"
+    },
+    {
+      "block_type": "paragraph",
+      "page": 2,
+      "bbox": {
+        "x0": 50.0,
+        "y0": 292.84,
+        "x1": 190.0,
+        "y1": 306.84
+      },
+      "indent_level": 0,
+      "numbering": null,
+      "font_size_estimate": 14.0,
+      "text": "\"x_position\": 0.282,"
+    },
+    {
+      "block_type": "paragraph",
+      "page": 2,
+      "bbox": {
+        "x0": 50.0,
+        "y0": 322.13,
+        "x1": 169.0,
+        "y1": 336.13
+      },
+      "indent_level": 0,
+      "numbering": null,
+      "font_size_estimate": 14.0,
+      "text": "\"indent_level\": 0"
+    },
+    {
+      "block_type": "paragraph",
+      "page": 2,
+      "bbox": {
+        "x0": 50.0,
+        "y0": 351.41,
+        "x1": 64.0,
+        "y1": 365.41
+      },
+      "indent_level": 0,
+      "numbering": null,
+      "font_size_estimate": 14.0,
+      "text": "},"
+    },
+    {
+      "block_type": "paragraph",
+      "page": 2,
+      "bbox": {
+        "x0": 50.0,
+        "y0": 380.69,
+        "x1": 57.0,
+        "y1": 394.69
+      },
+      "indent_level": 0,
+      "numbering": null,
+      "font_size_estimate": 14.0,
+      "text": "{"
+    },
+    {
+      "block_type": "paragraph",
+      "page": 2,
+      "bbox": {
+        "x0": 50.0,
+        "y0": 409.98,
+        "x1": 407.0,
+        "y1": 423.98
+      },
+      "indent_level": 0,
+      "numbering": null,
+      "font_size_estimate": 14.0,
+      "text": "\"text\": \"(1) ખાનપુરા ધારશીભાઈ ગુલાબભાઈના વારસદારો\","
+    },
+    {
+      "block_type": "paragraph",
+      "page": 2,
+      "bbox": {
+        "x0": 50.0,
+        "y0": 439.26,
+        "x1": 197.0,
+        "y1": 453.26
+      },
+      "indent_level": 0,
+      "numbering": null,
+      "font_size_estimate": 14.0,
+      "text": "\"y_position\": 0.2822,"
+    },
+    {
+      "block_type": "paragraph",
+      "page": 2,
+      "bbox": {
+        "x0": 50.0,
+        "y0": 468.55,
+        "x1": 190.0,
+        "y1": 482.55
+      },
+      "indent_level": 0,
+      "numbering": null,
+      "font_size_estimate": 14.0,
+      "text": "\"x_position\": 0.282,"
+    },
+    {
+      "block_type": "paragraph",
+      "page": 2,
+      "bbox": {
+        "x0": 50.0,
+        "y0": 497.83,
+        "x1": 169.0,
+        "y1": 511.83
+      },
+      "indent_level": 0,
+      "numbering": null,
+      "font_size_estimate": 14.0,
+      "text": "\"indent_level\": 0"
+    },
+    {
+      "block_type": "paragraph",
+      "page": 2,
+      "bbox": {
+        "x0": 50.0,
+        "y0": 527.11,
+        "x1": 64.0,
+        "y1": 541.11
+      },
+      "indent_level": 0,
+      "numbering": null,
+      "font_size_estimate": 14.0,
+      "text": "},"
+    },
+    {
+      "block_type": "paragraph",
+      "page": 2,
+      "bbox": {
+        "x0": 50.0,
+        "y0": 556.4,
+        "x1": 57.0,
+        "y1": 570.4
+      },
+      "indent_level": 0,
+      "numbering": null,
+      "font_size_estimate": 14.0,
+      "text": "{"
+    },
+    {
+      "block_type": "paragraph",
+      "page": 2,
+      "bbox": {
+        "x0": 50.0,
+        "y0": 585.68,
+        "x1": 344.0,
+        "y1": 599.68
+      },
+      "indent_level": 0,
+      "numbering": null,
+      "font_size_estimate": 14.0,
+      "text": "\"text\": \"(1-1) ખાનપુરા રવિતાબેન ધારશીભાઈ\","
+    },
+    {
+      "block_type": "paragraph",
+      "page": 2,
+      "bbox": {
+        "x0": 50.0,
+        "y0": 614.97,
+        "x1": 197.0,
+        "y1": 628.97
+      },
+      "indent_level": 0,
+      "numbering": null,
+      "font_size_estimate": 14.0,
+      "text": "\"y_position\": 0.3221,"
+    },
+    {
+      "block_type": "paragraph",
+      "page": 2,
+      "bbox": {
+        "x0": 50.0,
+        "y0": 644.25,
+        "x1": 190.0,
+        "y1": 658.25
+      },
+      "indent_level": 0,
+      "numbering": null,
+      "font_size_estimate": 14.0,
+      "text": "\"x_position\": 0.346,"
+    },
+    {
+      "block_type": "paragraph",
+      "page": 2,
+      "bbox": {
+        "x0": 50.0,
+        "y0": 673.54,
+        "x1": 169.0,
+        "y1": 687.54
+      },
+      "indent_level": 0,
+      "numbering": null,
+      "font_size_estimate": 14.0,
+      "text": "\"indent_level\": 1"
+    },
+    {
+      "block_type": "paragraph",
+      "page": 2,
+      "bbox": {
+        "x0": 50.0,
+        "y0": 702.82,
+        "x1": 64.0,
+        "y1": 716.82
+      },
+      "indent_level": 0,
+      "numbering": null,
+      "font_size_estimate": 14.0,
+      "text": "},"
+    },
+    {
+      "block_type": "paragraph",
+      "page": 2,
+      "bbox": {
+        "x0": 50.0,
+        "y0": 732.1,
+        "x1": 57.0,
+        "y1": 746.1
+      },
+      "indent_level": 0,
+      "numbering": null,
+      "font_size_estimate": 14.0,
+      "text": "{"
+    },
+    {
+      "block_type": "paragraph",
+      "page": 2,
+      "bbox": {
+        "x0": 50.0,
+        "y0": 761.39,
+        "x1": 344.0,
+        "y1": 775.39
+      },
+      "indent_level": 0,
+      "numbering": null,
+      "font_size_estimate": 14.0,
+      "text": "\"text\": \"રહે.: વડા, તા.ડીસા જી.બનાસકાંઠા\","
+    },
+    {
+      "block_type": "paragraph",
+      "page": 2,
+      "bbox": {
+        "x0": 50.0,
+        "y0": 790.67,
+        "x1": 197.0,
+        "y1": 804.67
+      },
+      "indent_level": 0,
+      "numbering": null,
+      "font_size_estimate": 14.0,
+      "text": "\"y_position\": 0.3449,"
+    },
+    {
+      "block_type": "paragraph",
+      "page": 2,
+      "bbox": {
+        "x0": 50.0,
+        "y0": 819.96,
+        "x1": 183.0,
+        "y1": 833.96
+      },
+      "indent_level": 0,
+      "numbering": null,
+      "font_size_estimate": 14.0,
+      "text": "\"x_position\": 0.379"
+    },
+    {
+      "block_type": "paragraph",
+      "page": 3,
+      "bbox": {
+        "x0": 387.87,
+        "y0": 43.31,
+        "x1": 576.87,
+        "y1": 57.31
+      },
+      "indent_level": 2,
+      "numbering": null,
+      "font_size_estimate": 14.0,
+      "text": "નં.મહાવિવા/હકયુ/બનસ/૪૩/૨૦૨૨"
+    },
+    {
+      "block_type": "paragraph",
+      "page": 3,
+      "bbox": {
+        "x0": 173.38,
+        "y0": 78.13,
+        "x1": 404.38,
+        "y1": 92.13
+      },
+      "indent_level": 2,
+      "numbering": null,
+      "font_size_estimate": 14.0,
+      "text": "આ કામની ટુંકમાં હકીકત એવી છે કે:-"
+    },
+    {
+      "block_type": "numbered_item",
+      "page": 3,
+      "bbox": {
+        "x0": 119.76,
+        "y0": 111.25,
+        "x1": 686.76,
+        "y1": 433.52
+      },
+      "indent_level": 1,
+      "numbering": "(૧)",
+      "font_size_estimate": 14.0,
+      "text": "(૧) મોજે. વડા, તા. કિકેરજના સ.નં. ૧૮૨૪ વાળી જમીન ખાનપુરા મેવાભાઈ પોતાના સ્વતંત્ર માલિકીના જુના સર્વે નંબર ૬૦૮ ની હૈ. ૧-૬૧-૮૮ ચો.મી. પ્રમાણહેઠળ પડોળી નવો સર્વે નંબર ૧૮૨૪ ની હૈ. ૧-૬૮-૪૬ ચો.મી. જમીન ચાલે છે આ જમીન તેમણે સબ રજીસ્ટ્રાર કચેરી અરાદના રજી. દસ્તાવેજ નંબર ૫૦૨, તા. ૨૩/૦૬/૨૦૦૬ થી મોજે.(વેચાણ રાખનાર) ખાનપુરા ધારસીભાઈ લખાભાઈએ રૂ/ ૧,૨૨,૦૦૦/- પુરામાં વેચાણ રાખતાં વેચાણ રાખનાર તરફથી મળેલા આધારો, અરજી, રજી. દસ્તાવેજની પ્રમાણિત નકલ, ખેડૂત ખાતેદારના આધારો ખરીદનારના ખાતા નંબર નવિન ખાતામાં આવેલ સર્વે નંબર માટે હકકપત્રકે વેચાણની નોંધ નં. ૮૩૫૬ તા. ૨૩/૦૩/૨૦૨૧ ના રોજની પડવામાં આવેલ છે. જે નોંધ સામે ખાનપુરા ઉગમભાઈ મેવાભાઈએ તેમની તા. ૦૮/૦૪/૨૦૨૧ ની અરજીથી વાંધા અરજી આપતા તકરારી રજીસ્ટર દાખલ કરી તકરારી નોંધના નિર્ણય કરવાના અધિકાર નાયબ કલેકટરશ્રી ડીસાની કચેરીને પહોંચતા હોઈ નાયબ મામલતદાર ઈ-ધરાએ નોંધના કાગળો નાયબ કલેકટરશ્રી ડીસાની કચેરીને તબદીલ કરતા, જે અન્વયે નાયબ કલેકટરશ્રી ડીસાનાં હુકમ નંબર આર.ટી.એસ/તકરારી કેસ નં ૩૧/૨૦૨૧, તા. ૨૬/૧/૨૧ થી વાંધા અરજી મંજુર કરેલ હતી. જે હુકમ સામે કલેકટરશ્રી બનાસકાંઠા સમક્ષ રીવીઝન કેસ નંબર બી/જમીન-૪/રીવીઝન કેસ નં ૪૪/ ૨૦૨૧, ૧૩૧ દાખલ થયેલ. જેમાં તા. ૨૮/૦૧/૨૦૨૨ ના હુકમથી અરજદારની રીવીઝન અરજી મંજુર કરવામાં આવેલ હતી અને નાયબ કલેકટરશ્રી ડીસાનાં હુકમ નંબર આર.ટી.એસ./તકરારી કેસ નંબર ૩૧/૨૦૨૧, તા. ૨૬/૦૫/૨૦૨૧ રદ કરવા હુકમ કરવામાં આવેલ હતો."
+    },
+    {
+      "block_type": "numbered_item",
+      "page": 3,
+      "bbox": {
+        "x0": 89.97,
+        "y0": 570.69,
+        "x1": 649.97,
+        "y1": 673.86
+      },
+      "indent_level": 1,
+      "numbering": "(૧.૨)",
+      "font_size_estimate": 14.0,
+      "text": "(૧.૨) કલેકટરશ્રીના વાદગ્રસ્ત હુકમથી નારાજ થઈ આ કેસના અરજદારશ્રીએ સચિવશ્રી મહેસુલ વિભાગ (વિવાદ) સમક્ષ તા.૨૯/૦૩/૨૦૨૨ ના રોજ રીવીઝન અરજી નંબર મહાવિવા / હકયુ / બનસ / ૪૩ / ૨૦૨૨ દાખલ કરેલ છે. જે કેસની સુનાવણી તા. ૧૬/૦૯/૨૦૨૩, ૧૯/૦૪/૨૦૨૪ ના રોજ રાખવામાં આવેલ હતી. જે મુદ્દત અરજદારશ્રી તરફે એડવોકેટશ્રી બી.બી.ઠાકોર હાજર રહેલ હતા અને સામાવાળા નં ૨, ૩, ૪, અને ૬ તરફે એડવોકેટશ્રી આઈ.એલ.દેસાઈ હાજર રહેલ હતા."
+    },
+    {
+      "block_type": "paragraph",
+      "page": 3,
+      "bbox": {
+        "x0": 280.03,
+        "y0": 732.89,
+        "x1": 357.03,
+        "y1": 746.89
+      },
+      "indent_level": 2,
+      "numbering": null,
+      "font_size_estimate": 14.0,
+      "text": "Page 3 of 4"
+    },
+    {
+      "block_type": "paragraph",
+      "page": 4,
+      "bbox": {
+        "x0": 357.48,
+        "y0": 40.76,
+        "x1": 525.48,
+        "y1": 54.76
+      },
+      "indent_level": 2,
+      "numbering": null,
+      "font_size_estimate": 14.0,
+      "text": "નં.મવિવિ/ઇસપ/બનસ/૪૩/૨૦૨૨"
+    },
+    {
+      "block_type": "paragraph",
+      "page": 4,
+      "bbox": {
+        "x0": 440.89,
+        "y0": 55.2,
+        "x1": 538.89,
+        "y1": 69.2
+      },
+      "indent_level": 2,
+      "numbering": null,
+      "font_size_estimate": 14.0,
+      "text": "તા. ૦૪/૦૩/૨૦૨૨"
+    },
+    {
+      "block_type": "numbered_item",
+      "page": 4,
+      "bbox": {
+        "x0": 89.37,
+        "y0": 106.15,
+        "x1": 672.16,
+        "y1": 196.59
+      },
+      "indent_level": 1,
+      "numbering": "(૧.૩)",
+      "font_size_estimate": 14.0,
+      "text": "(૧.૩) તા. ૧૯/૦૪/૨૦૨૪ ની સુનાવણીમાં અરજદાર નંબર ૧ થી ૬ રૂબરૂ હાજર રહેલા હતા અને તેઓએ તા. ૦૧/૧૧/૨૦૨૩ ના રોજનું સોગંદનામા પર રજુ કરેલ વિવરણો પુરશીશ માન્ય કરી કેસ આગળ ચલાવવા માંગતા ન હોઈ, રાજ્યશ્રીયેથી કેસ વિવરણો કરવાની રજુઆત કરેલ છે. સદર વિગતો ધ્યાને લઈ નીચે મુજબનો હુકમ કરવામાં આવે છે."
+    },
+    {
+      "block_type": "subheader",
+      "page": 4,
+      "bbox": {
+        "x0": 268.11,
+        "y0": 237.79,
+        "x1": 338.11,
+        "y1": 251.79
+      },
+      "indent_level": 2,
+      "numbering": null,
+      "font_size_estimate": 14.0,
+      "text": "-: હુકમ :-"
+    },
+    {
+      "block_type": "paragraph",
+      "page": 4,
+      "bbox": {
+        "x0": 89.37,
+        "y0": 271.76,
+        "x1": 635.37,
+        "y1": 311.23
+      },
+      "indent_level": 0,
+      "numbering": null,
+      "font_size_estimate": 14.0,
+      "text": "અરજદારશ્રીની રિવિઝન અરજી નં.મવિવિ/ઇસપ/બનસ/૪૩/૨૦૨૨ના કામે રજુ કરેલ કેસ વિવરણો પુરશીશ ગ્રાહ્ય રાખવામાં આવે છે અને કેસ રજીસ્ટરથી કમી કરવા હુકમ કરવામાં આવે છે."
+    },
+    {
+      "block_type": "signature",
+      "page": 4,
+      "bbox": {
+        "x0": 89.37,
+        "y0": 331.2,
+        "x1": 530.37,
+        "y1": 345.2
+      },
+      "indent_level": 0,
+      "numbering": null,
+      "font_size_estimate": 14.0,
+      "text": "આથી તા. ૦૨ / ૦૫ /૨૦૨૪ ના રોજ મારી સહી તથા કોર્ટનો સિક્કો કર્યો."
+    },
+    {
+      "block_type": "paragraph",
+      "page": 4,
+      "bbox": {
+        "x0": 148.95,
+        "y0": 356.68,
+        "x1": 470.95,
+        "y1": 370.68
+      },
+      "indent_level": 1,
+      "numbering": null,
+      "font_size_estimate": 14.0,
+      "text": "ગુજરાતના રાજ્યપાલશ્રીના હુકમથી અને તેમના નામે."
+    },
+    {
+      "block_type": "header",
+      "page": 4,
+      "bbox": {
+        "x0": 387.27,
+        "y0": 382.16,
+        "x1": 527.27,
+        "y1": 498.07
+      },
+      "indent_level": 2,
+      "numbering": null,
+      "font_size_estimate": 14.0,
+      "text": "Suseel (એલ.પી.પાડલીયા) સચિવ મહેસૂલ વિભાગ (વિવાદ) અમદાવાદ."
+    },
+    {
+      "block_type": "subheader",
+      "page": 4,
+      "bbox": {
+        "x0": 89.37,
+        "y0": 492.56,
+        "x1": 131.37,
+        "y1": 506.56
+      },
+      "indent_level": 0,
+      "numbering": null,
+      "font_size_estimate": 14.0,
+      "text": "પ્રતિ,"
+    },
+    {
+      "block_type": "numbered_item",
+      "page": 4,
+      "bbox": {
+        "x0": 89.37,
+        "y0": 518.04,
+        "x1": 399.16,
+        "y1": 557.51
+      },
+      "indent_level": 0,
+      "numbering": "(૧)",
+      "font_size_estimate": 14.0,
+      "text": "(૧) સંબંધિત પક્ષકારો તરફ... ૨/-જાણ તથા હુકમ મુજબ જરૂરી અમલવારી સારૂ."
+    },
+    {
+      "block_type": "numbered_item",
+      "page": 4,
+      "bbox": {
+        "x0": 89.37,
+        "y0": 568.99,
+        "x1": 215.37,
+        "y1": 582.99
+      },
+      "indent_level": 0,
+      "numbering": "(૨)",
+      "font_size_estimate": 14.0,
+      "text": "(૨) સીલેકટ ફાઈલ..."
+    },
+    {
+      "block_type": "paragraph",
+      "page": 4,
+      "bbox": {
+        "x0": 268.11,
+        "y0": 738.84,
+        "x1": 345.11,
+        "y1": 752.84
+      },
+      "indent_level": 2,
+      "numbering": null,
+      "font_size_estimate": 14.0,
+      "text": "Page 4 of 4"
+    }
+  ],
+  "sections": [
+    {
+      "section_type": "court_header",
+      "title": "[ { \"text\": \"585\", \"y_position\": 0.023, \"x_position\": 0.887, \"indent_level\": 0 }, { \"text\": \"નં.મવવિ",
+      "page_start": 1,
+      "page_end": 4,
+      "block_count": 38,
+      "blocks": [
+        {
+          "block_type": "header",
+          "page": 1,
+          "bbox": {
+            "x0": 50.0,
+            "y0": 0.0,
+            "x1": 316.0,
+            "y1": 837.51
+          },
+          "indent_level": 0,
+          "numbering": null,
+          "text": "[ { \"text\": \"585\", \"y_position\": 0.023, \"x_position\": 0.887, \"indent_level\": 0 }, { \"text\": \"નં.મવવિ/હકપ/બનસ/૪૩/૨૦૨૨\", \"y_position\": 0.057, \"x_position\": 0.467, \"indent_level\": 0 }, { \"text\": \"ગુજરાત સરકાર\", \"y_position\": 0.083, \"x_position\": 0.467, \"indent_level\": 0 }, { \"text\": \"નં.મવવિ/હકપ/બનસ/૪૩/૨૦૨૨\", \"y_position\": 0.111, \"x_position\": 0.467, \"indent_level\": 0 }, { \"text\": \"સરદાર વલ્લભભાઈ પટેલ મહેસૂલી\", \"y_position\": 0.128, \"x_position\": 0.467, \"indent_level\": 0 }, { \"text\": \"અ"
+        },
+        {
+          "block_type": "paragraph",
+          "page": 2,
+          "bbox": {
+            "x0": 50.0,
+            "y0": 0.0,
+            "x1": 57.0,
+            "y1": 14.0
+          },
+          "indent_level": 0,
+          "numbering": null,
+          "text": "["
+        },
+        {
+          "block_type": "paragraph",
+          "page": 2,
+          "bbox": {
+            "x0": 50.0,
+            "y0": 29.28,
+            "x1": 57.0,
+            "y1": 43.28
+          },
+          "indent_level": 0,
+          "numbering": null,
+          "text": "{"
+        },
+        {
+          "block_type": "paragraph",
+          "page": 2,
+          "bbox": {
+            "x0": 50.0,
+            "y0": 58.57,
+            "x1": 281.0,
+            "y1": 72.57
+          },
+          "indent_level": 0,
+          "numbering": null,
+          "text": "\"text\": \"નં.મવિ/હકપ/બનસ/૪૩/૨૦૨૨\","
+        },
+        {
+          "block_type": "paragraph",
+          "page": 2,
+          "bbox": {
+            "x0": 50.0,
+            "y0": 87.85,
+            "x1": 197.0,
+            "y1": 101.85
+          },
+          "indent_level": 0,
+          "numbering": null,
+          "text": "\"y_position\": 0.0598,"
+        },
+        {
+          "block_type": "paragraph",
+          "page": 2,
+          "bbox": {
+            "x0": 50.0,
+            "y0": 117.14,
+            "x1": 190.0,
+            "y1": 131.14
+          },
+          "indent_level": 0,
+          "numbering": null,
+          "text": "\"x_position\": 0.548,"
+        },
+        {
+          "block_type": "paragraph",
+          "page": 2,
+          "bbox": {
+            "x0": 50.0,
+            "y0": 146.42,
+            "x1": 169.0,
+            "y1": 160.42
+          },
+          "indent_level": 0,
+          "numbering": null,
+          "text": "\"indent_level\": 0"
+        },
+        {
+          "block_type": "paragraph",
+          "page": 2,
+          "bbox": {
+            "x0": 50.0,
+            "y0": 175.7,
+            "x1": 64.0,
+            "y1": 189.7
+          },
+          "indent_level": 0,
+          "numbering": null,
+          "text": "},"
+        },
+        {
+          "block_type": "paragraph",
+          "page": 2,
+          "bbox": {
+            "x0": 50.0,
+            "y0": 204.99,
+            "x1": 57.0,
+            "y1": 218.99
+          },
+          "indent_level": 0,
+          "numbering": null,
+          "text": "{"
+        },
+        {
+          "block_type": "paragraph",
+          "page": 2,
+          "bbox": {
+            "x0": 50.0,
+            "y0": 234.27,
+            "x1": 225.0,
+            "y1": 248.27
+          },
+          "indent_level": 0,
+          "numbering": null,
+          "text": "\"text\": \"સામાવાળાશ્રી:-\","
+        },
+        {
+          "block_type": "paragraph",
+          "page": 2,
+          "bbox": {
+            "x0": 50.0,
+            "y0": 263.56,
+            "x1": 197.0,
+            "y1": 277.56
+          },
+          "indent_level": 0,
+          "numbering": null,
+          "text": "\"y_position\": 0.2366,"
+        },
+        {
+          "block_type": "paragraph",
+          "page": 2,
+          "bbox": {
+            "x0": 50.0,
+            "y0": 292.84,
+            "x1": 190.0,
+            "y1": 306.84
+          },
+          "indent_level": 0,
+          "numbering": null,
+          "text": "\"x_position\": 0.282,"
+        },
+        {
+          "block_type": "paragraph",
+          "page": 2,
+          "bbox": {
+            "x0": 50.0,
+            "y0": 322.13,
+            "x1": 169.0,
+            "y1": 336.13
+          },
+          "indent_level": 0,
+          "numbering": null,
+          "text": "\"indent_level\": 0"
+        },
+        {
+          "block_type": "paragraph",
+          "page": 2,
+          "bbox": {
+            "x0": 50.0,
+            "y0": 351.41,
+            "x1": 64.0,
+            "y1": 365.41
+          },
+          "indent_level": 0,
+          "numbering": null,
+          "text": "},"
+        },
+        {
+          "block_type": "paragraph",
+          "page": 2,
+          "bbox": {
+            "x0": 50.0,
+            "y0": 380.69,
+            "x1": 57.0,
+            "y1": 394.69
+          },
+          "indent_level": 0,
+          "numbering": null,
+          "text": "{"
+        },
+        {
+          "block_type": "paragraph",
+          "page": 2,
+          "bbox": {
+            "x0": 50.0,
+            "y0": 409.98,
+            "x1": 407.0,
+            "y1": 423.98
+          },
+          "indent_level": 0,
+          "numbering": null,
+          "text": "\"text\": \"(1) ખાનપુરા ધારશીભાઈ ગુલાબભાઈના વારસદારો\","
+        },
+        {
+          "block_type": "paragraph",
+          "page": 2,
+          "bbox": {
+            "x0": 50.0,
+            "y0": 439.26,
+            "x1": 197.0,
+            "y1": 453.26
+          },
+          "indent_level": 0,
+          "numbering": null,
+          "text": "\"y_position\": 0.2822,"
+        },
+        {
+          "block_type": "paragraph",
+          "page": 2,
+          "bbox": {
+            "x0": 50.0,
+            "y0": 468.55,
+            "x1": 190.0,
+            "y1": 482.55
+          },
+          "indent_level": 0,
+          "numbering": null,
+          "text": "\"x_position\": 0.282,"
+        },
+        {
+          "block_type": "paragraph",
+          "page": 2,
+          "bbox": {
+            "x0": 50.0,
+            "y0": 497.83,
+            "x1": 169.0,
+            "y1": 511.83
+          },
+          "indent_level": 0,
+          "numbering": null,
+          "text": "\"indent_level\": 0"
+        },
+        {
+          "block_type": "paragraph",
+          "page": 2,
+          "bbox": {
+            "x0": 50.0,
+            "y0": 527.11,
+            "x1": 64.0,
+            "y1": 541.11
+          },
+          "indent_level": 0,
+          "numbering": null,
+          "text": "},"
+        },
+        {
+          "block_type": "paragraph",
+          "page": 2,
+          "bbox": {
+            "x0": 50.0,
+            "y0": 556.4,
+            "x1": 57.0,
+            "y1": 570.4
+          },
+          "indent_level": 0,
+          "numbering": null,
+          "text": "{"
+        },
+        {
+          "block_type": "paragraph",
+          "page": 2,
+          "bbox": {
+            "x0": 50.0,
+            "y0": 585.68,
+            "x1": 344.0,
+            "y1": 599.68
+          },
+          "indent_level": 0,
+          "numbering": null,
+          "text": "\"text\": \"(1-1) ખાનપુરા રવિતાબેન ધારશીભાઈ\","
+        },
+        {
+          "block_type": "paragraph",
+          "page": 2,
+          "bbox": {
+            "x0": 50.0,
+            "y0": 614.97,
+            "x1": 197.0,
+            "y1": 628.97
+          },
+          "indent_level": 0,
+          "numbering": null,
+          "text": "\"y_position\": 0.3221,"
+        },
+        {
+          "block_type": "paragraph",
+          "page": 2,
+          "bbox": {
+            "x0": 50.0,
+            "y0": 644.25,
+            "x1": 190.0,
+            "y1": 658.25
+          },
+          "indent_level": 0,
+          "numbering": null,
+          "text": "\"x_position\": 0.346,"
+        },
+        {
+          "block_type": "paragraph",
+          "page": 2,
+          "bbox": {
+            "x0": 50.0,
+            "y0": 673.54,
+            "x1": 169.0,
+            "y1": 687.54
+          },
+          "indent_level": 0,
+          "numbering": null,
+          "text": "\"indent_level\": 1"
+        },
+        {
+          "block_type": "paragraph",
+          "page": 2,
+          "bbox": {
+            "x0": 50.0,
+            "y0": 702.82,
+            "x1": 64.0,
+            "y1": 716.82
+          },
+          "indent_level": 0,
+          "numbering": null,
+          "text": "},"
+        },
+        {
+          "block_type": "paragraph",
+          "page": 2,
+          "bbox": {
+            "x0": 50.0,
+            "y0": 732.1,
+            "x1": 57.0,
+            "y1": 746.1
+          },
+          "indent_level": 0,
+          "numbering": null,
+          "text": "{"
+        },
+        {
+          "block_type": "paragraph",
+          "page": 2,
+          "bbox": {
+            "x0": 50.0,
+            "y0": 761.39,
+            "x1": 344.0,
+            "y1": 775.39
+          },
+          "indent_level": 0,
+          "numbering": null,
+          "text": "\"text\": \"રહે.: વડા, તા.ડીસા જી.બનાસકાંઠા\","
+        },
+        {
+          "block_type": "paragraph",
+          "page": 2,
+          "bbox": {
+            "x0": 50.0,
+            "y0": 790.67,
+            "x1": 197.0,
+            "y1": 804.67
+          },
+          "indent_level": 0,
+          "numbering": null,
+          "text": "\"y_position\": 0.3449,"
+        },
+        {
+          "block_type": "paragraph",
+          "page": 2,
+          "bbox": {
+            "x0": 50.0,
+            "y0": 819.96,
+            "x1": 183.0,
+            "y1": 833.96
+          },
+          "indent_level": 0,
+          "numbering": null,
+          "text": "\"x_position\": 0.379"
+        },
+        {
+          "block_type": "paragraph",
+          "page": 3,
+          "bbox": {
+            "x0": 387.87,
+            "y0": 43.31,
+            "x1": 576.87,
+            "y1": 57.31
+          },
+          "indent_level": 2,
+          "numbering": null,
+          "text": "નં.મહાવિવા/હકયુ/બનસ/૪૩/૨૦૨૨"
+        },
+        {
+          "block_type": "paragraph",
+          "page": 3,
+          "bbox": {
+            "x0": 173.38,
+            "y0": 78.13,
+            "x1": 404.38,
+            "y1": 92.13
+          },
+          "indent_level": 2,
+          "numbering": null,
+          "text": "આ કામની ટુંકમાં હકીકત એવી છે કે:-"
+        },
+        {
+          "block_type": "numbered_item",
+          "page": 3,
+          "bbox": {
+            "x0": 119.76,
+            "y0": 111.25,
+            "x1": 686.76,
+            "y1": 433.52
+          },
+          "indent_level": 1,
+          "numbering": "(૧)",
+          "text": "(૧) મોજે. વડા, તા. કિકેરજના સ.નં. ૧૮૨૪ વાળી જમીન ખાનપુરા મેવાભાઈ પોતાના સ્વતંત્ર માલિકીના જુના સર્વે નંબર ૬૦૮ ની હૈ. ૧-૬૧-૮૮ ચો.મી. પ્રમાણહેઠળ પડોળી નવો સર્વે નંબર ૧૮૨૪ ની હૈ. ૧-૬૮-૪૬ ચો.મી. જમીન ચાલે છે આ જમીન તેમણે સબ રજીસ્ટ્રાર કચેરી અરાદના રજી. દસ્તાવેજ નંબર ૫૦૨, તા. ૨૩/૦૬/૨૦૦૬ થી મોજે.(વેચાણ રાખનાર) ખાનપુરા ધારસીભાઈ લખાભાઈએ રૂ/ ૧,૨૨,૦૦૦/- પુરામાં વેચાણ રાખતાં વેચાણ રાખનાર તરફથી મળેલા આધારો, અરજી, રજી. દસ્તાવેજની પ્રમાણિત નકલ, ખેડૂત ખાતેદારના આધારો ખરીદનારના ખાતા નંબર નવિન ખાતામાં આવેલ સર્વે નંબર માટે હકકપત્રકે વેચાણની નોંધ નં. ૮૩૫૬ તા. ૨૩/૦૩/૨૦૨૧ ના રોજની પડવામાં આવેલ છે. જે નોંધ સામે ખાનપુરા ઉગમભાઈ મેવાભાઈએ તેમની તા. ૦૮/૦૪/૨૦૨૧ ની અરજીથી વાંધા અરજી આપતા તકરારી રજીસ્ટર દાખલ કરી તકરારી નોંધના નિર્ણય કરવાના અધિકાર નાયબ કલેકટરશ્રી ડીસાની કચેરીને પહોંચતા હોઈ નાયબ મામલતદાર ઈ-ધરાએ નોંધના કાગળો નાયબ કલેકટરશ્રી ડીસાની કચેરીને તબદીલ કરતા, જે અન્વયે નાયબ કલેકટરશ્રી ડીસાનાં હુકમ નંબર આર.ટી.એસ/તકરારી કેસ નં ૩૧/૨૦૨૧, તા. ૨૬/૧/૨૧ થી વાંધા અરજી મંજુર કરેલ હતી. જે હુકમ સામે કલેકટરશ્રી બનાસકાંઠા સમક્ષ રીવીઝન કેસ નંબર બી/જમીન-૪/રીવીઝન કેસ નં ૪૪/ ૨૦૨૧, ૧૩૧ દાખલ થયેલ. જેમાં તા. ૨૮/૦૧/૨૦૨૨ ના હુકમથી અરજદારની રીવીઝન અરજી મંજુર કરવામાં આવેલ હતી અને નાયબ કલેકટરશ્રી ડીસાનાં હુકમ નંબર આર.ટી.એસ./તકરારી કેસ નંબર ૩૧/૨૦૨૧, તા. ૨૬/૦૫/૨૦૨૧ રદ કરવા હુકમ કરવામાં આવેલ હતો."
+        },
+        {
+          "block_type": "numbered_item",
+          "page": 3,
+          "bbox": {
+            "x0": 89.97,
+            "y0": 570.69,
+            "x1": 649.97,
+            "y1": 673.86
+          },
+          "indent_level": 1,
+          "numbering": "(૧.૨)",
+          "text": "(૧.૨) કલેકટરશ્રીના વાદગ્રસ્ત હુકમથી નારાજ થઈ આ કેસના અરજદારશ્રીએ સચિવશ્રી મહેસુલ વિભાગ (વિવાદ) સમક્ષ તા.૨૯/૦૩/૨૦૨૨ ના રોજ રીવીઝન અરજી નંબર મહાવિવા / હકયુ / બનસ / ૪૩ / ૨૦૨૨ દાખલ કરેલ છે. જે કેસની સુનાવણી તા. ૧૬/૦૯/૨૦૨૩, ૧૯/૦૪/૨૦૨૪ ના રોજ રાખવામાં આવેલ હતી. જે મુદ્દત અરજદારશ્રી તરફે એડવોકેટશ્રી બી.બી.ઠાકોર હાજર રહેલ હતા અને સામાવાળા નં ૨, ૩, ૪, અને ૬ તરફે એડવોકેટશ્રી આઈ.એલ.દેસાઈ હાજર રહેલ હતા."
+        },
+        {
+          "block_type": "paragraph",
+          "page": 3,
+          "bbox": {
+            "x0": 280.03,
+            "y0": 732.89,
+            "x1": 357.03,
+            "y1": 746.89
+          },
+          "indent_level": 2,
+          "numbering": null,
+          "text": "Page 3 of 4"
+        },
+        {
+          "block_type": "paragraph",
+          "page": 4,
+          "bbox": {
+            "x0": 357.48,
+            "y0": 40.76,
+            "x1": 525.48,
+            "y1": 54.76
+          },
+          "indent_level": 2,
+          "numbering": null,
+          "text": "નં.મવિવિ/ઇસપ/બનસ/૪૩/૨૦૨૨"
+        },
+        {
+          "block_type": "paragraph",
+          "page": 4,
+          "bbox": {
+            "x0": 440.89,
+            "y0": 55.2,
+            "x1": 538.89,
+            "y1": 69.2
+          },
+          "indent_level": 2,
+          "numbering": null,
+          "text": "તા. ૦૪/૦૩/૨૦૨૨"
+        },
+        {
+          "block_type": "numbered_item",
+          "page": 4,
+          "bbox": {
+            "x0": 89.37,
+            "y0": 106.15,
+            "x1": 672.16,
+            "y1": 196.59
+          },
+          "indent_level": 1,
+          "numbering": "(૧.૩)",
+          "text": "(૧.૩) તા. ૧૯/૦૪/૨૦૨૪ ની સુનાવણીમાં અરજદાર નંબર ૧ થી ૬ રૂબરૂ હાજર રહેલા હતા અને તેઓએ તા. ૦૧/૧૧/૨૦૨૩ ના રોજનું સોગંદનામા પર રજુ કરેલ વિવરણો પુરશીશ માન્ય કરી કેસ આગળ ચલાવવા માંગતા ન હોઈ, રાજ્યશ્રીયેથી કેસ વિવરણો કરવાની રજુઆત કરેલ છે. સદર વિગતો ધ્યાને લઈ નીચે મુજબનો હુકમ કરવામાં આવે છે."
+        }
+      ]
+    },
+    {
+      "section_type": "body_section",
+      "title": "-: હુકમ :-",
+      "page_start": 4,
+      "page_end": 4,
+      "block_count": 4,
+      "blocks": [
+        {
+          "block_type": "subheader",
+          "page": 4,
+          "bbox": {
+            "x0": 268.11,
+            "y0": 237.79,
+            "x1": 338.11,
+            "y1": 251.79
+          },
+          "indent_level": 2,
+          "numbering": null,
+          "text": "-: હુકમ :-"
+        },
+        {
+          "block_type": "paragraph",
+          "page": 4,
+          "bbox": {
+            "x0": 89.37,
+            "y0": 271.76,
+            "x1": 635.37,
+            "y1": 311.23
+          },
+          "indent_level": 0,
+          "numbering": null,
+          "text": "અરજદારશ્રીની રિવિઝન અરજી નં.મવિવિ/ઇસપ/બનસ/૪૩/૨૦૨૨ના કામે રજુ કરેલ કેસ વિવરણો પુરશીશ ગ્રાહ્ય રાખવામાં આવે છે અને કેસ રજીસ્ટરથી કમી કરવા હુકમ કરવામાં આવે છે."
+        },
+        {
+          "block_type": "signature",
+          "page": 4,
+          "bbox": {
+            "x0": 89.37,
+            "y0": 331.2,
+            "x1": 530.37,
+            "y1": 345.2
+          },
+          "indent_level": 0,
+          "numbering": null,
+          "text": "આથી તા. ૦૨ / ૦૫ /૨૦૨૪ ના રોજ મારી સહી તથા કોર્ટનો સિક્કો કર્યો."
+        },
+        {
+          "block_type": "paragraph",
+          "page": 4,
+          "bbox": {
+            "x0": 148.95,
+            "y0": 356.68,
+            "x1": 470.95,
+            "y1": 370.68
+          },
+          "indent_level": 1,
+          "numbering": null,
+          "text": "ગુજરાતના રાજ્યપાલશ્રીના હુકમથી અને તેમના નામે."
+        }
+      ]
+    },
+    {
+      "section_type": "court_header",
+      "title": "Suseel (એલ.પી.પાડલીયા) સચિવ મહેસૂલ વિભાગ (વિવાદ) અમદાવાદ.",
+      "page_start": 4,
+      "page_end": 4,
+      "block_count": 1,
+      "blocks": [
+        {
+          "block_type": "header",
+          "page": 4,
+          "bbox": {
+            "x0": 387.27,
+            "y0": 382.16,
+            "x1": 527.27,
+            "y1": 498.07
+          },
+          "indent_level": 2,
+          "numbering": null,
+          "text": "Suseel (એલ.પી.પાડલીયા) સચિવ મહેસૂલ વિભાગ (વિવાદ) અમદાવાદ."
+        }
+      ]
+    },
+    {
+      "section_type": "body_section",
+      "title": "પ્રતિ,",
+      "page_start": 4,
+      "page_end": 4,
+      "block_count": 4,
+      "blocks": [
+        {
+          "block_type": "subheader",
+          "page": 4,
+          "bbox": {
+            "x0": 89.37,
+            "y0": 492.56,
+            "x1": 131.37,
+            "y1": 506.56
+          },
+          "indent_level": 0,
+          "numbering": null,
+          "text": "પ્રતિ,"
+        },
+        {
+          "block_type": "numbered_item",
+          "page": 4,
+          "bbox": {
+            "x0": 89.37,
+            "y0": 518.04,
+            "x1": 399.16,
+            "y1": 557.51
+          },
+          "indent_level": 0,
+          "numbering": "(૧)",
+          "text": "(૧) સંબંધિત પક્ષકારો તરફ... ૨/-જાણ તથા હુકમ મુજબ જરૂરી અમલવારી સારૂ."
+        },
+        {
+          "block_type": "numbered_item",
+          "page": 4,
+          "bbox": {
+            "x0": 89.37,
+            "y0": 568.99,
+            "x1": 215.37,
+            "y1": 582.99
+          },
+          "indent_level": 0,
+          "numbering": "(૨)",
+          "text": "(૨) સીલેકટ ફાઈલ..."
+        },
+        {
+          "block_type": "paragraph",
+          "page": 4,
+          "bbox": {
+            "x0": 268.11,
+            "y0": 738.84,
+            "x1": 345.11,
+            "y1": 752.84
+          },
+          "indent_level": 2,
+          "numbering": null,
+          "text": "Page 4 of 4"
+        }
+      ]
+    }
+  ]
+}
